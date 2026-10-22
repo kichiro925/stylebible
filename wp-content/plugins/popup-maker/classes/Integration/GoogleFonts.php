@@ -11,7 +11,7 @@ class PUM_Integration_GoogleFonts {
 	/**
 	 * @var string
 	 */
-	private static $default_api_key = 'AIzaSyA1Q0uFOhEh3zv_Pk31FqlACArFquyBeQU';
+	private static $default_api_key = '';
 
 	/**
 	 * @var string
